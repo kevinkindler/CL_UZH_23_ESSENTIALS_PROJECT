@@ -7,9 +7,11 @@
 
 The first code file includes:
 1. Preprocessing the dataset
-2. Training the different Models
-3. Testing the models
-4. Finding the common misclassified sentences
+2. Vectorization
+3. Training the different Models
+4. Testing the models
+5. Finding the common misclassified sentences
+6. Analysing features
 
 The second code file includes:
 1. Analyzing the misclassification via a bar plot
